@@ -1,0 +1,37 @@
+<div class = "container">
+    <div class = "container container-style-bottom">
+        <div class = "row test">
+            <div *ngIf="isMobile; else elseBlock" class = "col-xs-12 img-center">
+                <img src="assets/profile.JPG" class="img-fluid image-style " alt="profile picture">
+            </div>
+            <ng-template #elseBlock>
+                <div class = "col-md-6">
+                    <img src="assets/profile.JPG" class="img-fluid image-style" alt="profile picture">
+                </div>
+              </ng-template>
+            <div class = "col-md-6 col-xs-12">
+                <div class = "row">
+                <h1 class = "heading-style">Bienvenue, </h1>
+                </div>
+                <div class = "row">
+                    <p>
+                        Je m'appelle Emma Vandecasteele, j'ai 20 ans et j'adore prendre des photos du monde
+                        qui m'entoure ! 
+                    </p>
+                </div>
+                <div class = "row">
+                    <p>
+                        Tu peux jeter un œil à quelques unes de mes photos dans l'espace 
+                        <a class = "linked" [routerLink]="['/gallery']">Galerie</a>.
+                    </p>
+                </div>
+                <div class = "row">
+                    <p>
+                        Plus de photos se trouvent sur mon Instagram 
+                         <a class = "linked" href="https://www.instagram.com/e.vdc.photography/" target = "_blank">e.vdc.photography</a> ✨
+                    </p>
+                </div>
+            </div>      
+        </div>
+    </div>
+</div>

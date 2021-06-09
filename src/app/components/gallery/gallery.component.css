@@ -1,0 +1,17 @@
+.title{
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+.container-style{
+    margin : 10px
+}
+
+.container-style-bottom{
+    margin-bottom: 100px;
+  }
+
+  .img-fluid{
+    margin-bottom: 20px;
+    display: block;
+    border-radius: 10%;
+}
