@@ -7,13 +7,15 @@ import { MaterialModule } from './shared/material.module';
 import { AboutComponent } from './components/about/about.component';
 import { GalleryComponent } from './components/gallery/gallery.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
+import { ModeComponent } from './mode/mode.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
     GalleryComponent,
-    CarouselComponent
+    CarouselComponent,
+    ModeComponent
   ],
   imports: [
     BrowserModule,
