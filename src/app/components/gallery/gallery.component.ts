@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Photo } from 'src/app/models/photo';
+import { DatasourceService } from 'src/app/services/datasource.service';
 
 @Component({
   selector: 'app-gallery',
@@ -7,9 +9,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GalleryComponent implements OnInit {
 
-  constructor() { }
+  photos : Photo[];
+
+  constructor(private readonly dataSource: DatasourceService) { }
 
   ngOnInit(): void {
+    this.photos = this.dataSource.getPhotos();
   }
 
 }

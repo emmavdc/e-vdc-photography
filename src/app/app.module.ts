@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { MaterialModule } from './shared/material.module';
 import { AboutComponent } from './components/about/about.component';
 import { GalleryComponent } from './components/gallery/gallery.component';
+import { CarouselComponent } from './components/carousel/carousel.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
-    GalleryComponent
+    GalleryComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,

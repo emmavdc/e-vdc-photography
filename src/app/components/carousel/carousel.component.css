@@ -1,0 +1,9 @@
+.container-style-bottom{
+    margin-bottom: 100px;
+  }
+
+  #exit-button{
+      margin-top: 25px;
+      margin-bottom: 25px;
+      text-align: end;
+  }
