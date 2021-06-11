@@ -34,8 +34,11 @@
   margin-right: auto;
 }
 
-#mode{
-  text-align: end;
-  margin-right: 10px;
+.mobile{
+ margin-left: 140px;
+}
+
+ul.navbar-nav {
+  height: 30px;
 }
   

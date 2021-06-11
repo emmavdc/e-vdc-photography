@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'e-vdc-photography';
+  isMobile : boolean;
+
+  ngOnInit(): void {
+    if (window.screen.width < 768) {
+      this.isMobile = true;
+    }
+  }
+
 }

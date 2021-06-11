@@ -34,3 +34,9 @@
   .toggle:checked + .toggle-label .moon {
     top: 0;
   }
+
+  img{
+    max-width: 80%;
+    max-height: 80%;
+    margin-left: 10px;
+  }
