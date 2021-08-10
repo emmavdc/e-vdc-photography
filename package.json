@@ -21,6 +21,7 @@
     "@angular/platform-browser": "~11.2.3",
     "@angular/platform-browser-dynamic": "~11.2.3",
     "@angular/router": "~11.2.3",
+    "@lottiefiles/lottie-player": "^1.1.1",
     "angular-dark-mode": "^2.0.1",
     "bootstrap": "^4.6.0",
     "jquery": "^3.6.0",
