@@ -8,25 +8,31 @@
         </div>
         <hr>
         <div class="row">
-            <div class="col-12 col-md-12">
-                <div id="carouselPhotos" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">
-                        <img [src]="activePhoto.source" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item" *ngFor="let p of unActivePhotos">
-                        <img [src]="p.source" class="d-block w-100" alt="...">
-                      </div>
+          <div class = "col-md-3">
+           <!-- soon -->
+          </div>
+          <div class="col-md-6 col-12">
+              <div id="carouselPhotos" class="carousel slide" data-bs-touch="false" data-bs-interval="false">
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img [src]="activePhoto.source" class="d-block w-100" alt="...">
                     </div>
-                    <!-- Left and right controls -->
-                    <a class="carousel-control-prev" href="#carouselPhotos" data-slide="prev">
-                        <span class="carousel-control-prev-icon"></span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselPhotos" data-slide="next">
-                        <span class="carousel-control-next-icon"></span>
-                    </a>
-                </div>
-            </div>           
+                    <div class="carousel-item" *ngFor="let p of unActivePhotos">
+                      <img [src]="p.source" class="d-block w-100" alt="...">
+                    </div>
+                  </div>
+                  <!-- Left and right controls -->
+                  <a class="carousel-control-prev" href="#carouselPhotos" data-slide="prev">
+                      <span class="carousel-control-prev-icon"></span>
+                  </a>
+                  <a class="carousel-control-next" href="#carouselPhotos" data-slide="next">
+                      <span class="carousel-control-next-icon"></span>
+                  </a>
+              </div>
+          </div>
+          <div class = "col-md-3">
+            <!-- soon -->
+          </div>           
         </div>  
         <hr>     
     </div>
