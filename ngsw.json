@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1628858604373,
+  "index": "https://emmavdc.github.io/e-vdc-photography/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://emmavdc.github.io/e-vdc-photography/index.html",
+        "https://emmavdc.github.io/e-vdc-photography/main.83770d02566fd1de8f17.js",
+        "https://emmavdc.github.io/e-vdc-photography/manifest.webmanifest",
+        "https://emmavdc.github.io/e-vdc-photography/polyfills.94daefd414b8355106ab.js",
+        "https://emmavdc.github.io/e-vdc-photography/runtime.7b63b9fd40098a2e8207.js",
+        "https://emmavdc.github.io/e-vdc-photography/scripts.3d49fdc6cebaa162180b.js",
+        "https://emmavdc.github.io/e-vdc-photography/styles.01bdca87a630ff76a447.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://emmavdc.github.io/e-vdc-photography/assets/E.svg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/butterfly.jpg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/cat-2.JPG",
+        "https://emmavdc.github.io/e-vdc-photography/assets/cat-3.jpg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/cat-calpe.jpg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/cat.jpg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/duck.JPG",
+        "https://emmavdc.github.io/e-vdc-photography/assets/flower-2.jpg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/flower.jpg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-128x128.png",
+        "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-144x144.png",
+        "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-152x152.png",
+        "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-192x192.png",
+        "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-384x384.png",
+        "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-512x512.png",
+        "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-72x72.png",
+        "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-96x96.png",
+        "https://emmavdc.github.io/e-vdc-photography/assets/london-1.JPG",
+        "https://emmavdc.github.io/e-vdc-photography/assets/london-2.JPG",
+        "https://emmavdc.github.io/e-vdc-photography/assets/london-4.JPG",
+        "https://emmavdc.github.io/e-vdc-photography/assets/moon.svg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/profile.JPG",
+        "https://emmavdc.github.io/e-vdc-photography/assets/rain.jpg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/sun.svg",
+        "https://emmavdc.github.io/e-vdc-photography/assets/thuin.JPG"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://emmavdc.github.io/e-vdc-photography/assets/E.svg": "3449345aa763d129d3a29af322c62096b92c17c9",
+    "https://emmavdc.github.io/e-vdc-photography/assets/butterfly.jpg": "852cae506d516737482d44533a280342c789d897",
+    "https://emmavdc.github.io/e-vdc-photography/assets/cat-2.JPG": "1f375ddd885982fccda69d478a1dbd57fcc9969e",
+    "https://emmavdc.github.io/e-vdc-photography/assets/cat-3.jpg": "1a9a6c005990fb8c70443961682156614fd7f180",
+    "https://emmavdc.github.io/e-vdc-photography/assets/cat-calpe.jpg": "676ea65e270f4347330ad25c0e365a4f74aa3367",
+    "https://emmavdc.github.io/e-vdc-photography/assets/cat.jpg": "3a2b13c8a5a913b03810fd5818aa67f39070fd56",
+    "https://emmavdc.github.io/e-vdc-photography/assets/duck.JPG": "b73df7f7cfc9e6d94a212a2f4b5e07cdee454261",
+    "https://emmavdc.github.io/e-vdc-photography/assets/flower-2.jpg": "3dc4b67cb32c6112377a802ffed1a85aa00f87c6",
+    "https://emmavdc.github.io/e-vdc-photography/assets/flower.jpg": "ae14444b0430b024f8dcaed58e9e981e55045d3a",
+    "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://emmavdc.github.io/e-vdc-photography/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://emmavdc.github.io/e-vdc-photography/assets/london-1.JPG": "fd27fb2ebe4d733a782f369e03198925519b836c",
+    "https://emmavdc.github.io/e-vdc-photography/assets/london-2.JPG": "7d317c75a4d392c5e0421f0e712df03ade02bb16",
+    "https://emmavdc.github.io/e-vdc-photography/assets/london-4.JPG": "229375072a5fbeb679fea55beae3e5721a20e930",
+    "https://emmavdc.github.io/e-vdc-photography/assets/moon.svg": "636dc3d6ce3ac3a25378be85be68ffafb076d5f7",
+    "https://emmavdc.github.io/e-vdc-photography/assets/profile.JPG": "cbac666a86cf37ef8ab85778294049d09681e8b1",
+    "https://emmavdc.github.io/e-vdc-photography/assets/rain.jpg": "809f08d79116788e2f0f3d8ca6a1ae0e9d78b2b2",
+    "https://emmavdc.github.io/e-vdc-photography/assets/sun.svg": "61c4eefd0c995c1176a8fc3e1d2db891d35979d1",
+    "https://emmavdc.github.io/e-vdc-photography/assets/thuin.JPG": "14892918c4e70fb9c78fd86e6a9f232da7a88055",
+    "https://emmavdc.github.io/e-vdc-photography/index.html": "7c45e0355625503ca35cd040eab0a1b45e162006",
+    "https://emmavdc.github.io/e-vdc-photography/main.83770d02566fd1de8f17.js": "ba1e794901b8fe23ce37d2bed7561dcedb6e0169",
+    "https://emmavdc.github.io/e-vdc-photography/manifest.webmanifest": "b505df29fe2a4044991f654b901c9f89bcb37993",
+    "https://emmavdc.github.io/e-vdc-photography/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "https://emmavdc.github.io/e-vdc-photography/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://emmavdc.github.io/e-vdc-photography/scripts.3d49fdc6cebaa162180b.js": "e3c1f331856e661f5dcb800362c075fcba8fa6f7",
+    "https://emmavdc.github.io/e-vdc-photography/styles.01bdca87a630ff76a447.css": "0c2bc3b916df01e48898a6fe2f1f92089af7469c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
