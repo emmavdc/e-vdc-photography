@@ -1,11 +1,6 @@
-.img-fluid {
-  max-width: 85%; /* or to whatever you want here */
-  max-height: 85%; /* or to whatever you want here */
-  border-radius: 30%;
-}
-
 .heading-style{
     margin-top: 15px;
+    margin-bottom: 50px;
 }
 
 .container-style-bottom{
@@ -14,10 +9,6 @@
 
 .linked{
   text-decoration: underline;
-}
-
-.img-center {
-  text-align: center;
 }
 
 lottie-player {
